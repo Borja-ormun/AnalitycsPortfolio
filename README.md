@@ -1,7 +1,7 @@
 # AnalitycsPortfolio# 📊 AnalyticPortfolio
 
 Welcome! 👋  
-Thanks for stopping by — I’m really glad you’re here.
+Thanks for stopping by I’m really glad you’re here.
 
 ---
 
@@ -15,11 +15,11 @@ This space reflects my growth, curiosity, and analytical mindset when it comes t
 
 ## 🧠 What you'll find here
 
-- 📈 Exploratory Data Analysis (EDA) projects  
-- 📊 Interactive visualizations and dashboards  
-- 🧹 Data cleaning and transformation workflows  
-- 🌐 Web scraping projects to collect data from the web  
-- 📚 Real-world case studies across different domains  
+-  Exploratory Data Analysis (EDA) projects  
+-  Interactive visualizations and dashboards  
+-  Data cleaning and transformation workflows  
+-  Web scraping projects to collect data from the web  
+-  Real-world case studies across different domains  
 
 Each project is designed not only to showcase technical skills, but also critical thinking and the ability to communicate insights effectively.
 
@@ -57,9 +57,10 @@ This portfolio aims to:
 
 ## 🤝 Let's connect
 
-If you're interested in collaborating, sharing feedback, or just talking about data, feel free to reach out!
+If you're interested in collaborating or sharing feedback, feel free to reach out!
 
----
+bormun97@gmail.com
+
 
 ⭐ Thanks again for visiting **AnalyticPortfolio**!
-It is an analytical portfolio
+
